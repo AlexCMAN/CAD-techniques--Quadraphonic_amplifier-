@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=SPK1 Old Footprint=FP-ASE02808MR-LW150-R-MFG New Footprint=Manea_Speaker
+Change Component Footprint: Designator=SPK2 Old Footprint=FP-ASE02808MR-LW150-R-MFG New Footprint=Manea_Speaker
+Change Component Footprint: Designator=SPK3 Old Footprint=FP-ASE02808MR-LW150-R-MFG New Footprint=Manea_Speaker
+Change Component Footprint: Designator=SPK4 Old Footprint=FP-ASE02808MR-LW150-R-MFG New Footprint=Manea_Speaker
+Add Pin To Net: Unknown Pin: Pin SPK1-1
+Add Pin To Net: Unknown Pin: Pin SPK1-2
+Add Pin To Net: Unknown Pin: Pin SPK2-1
+Add Pin To Net: Unknown Pin: Pin SPK2-2
+Add Pin To Net: Unknown Pin: Pin SPK3-1
+Add Pin To Net: Unknown Pin: Pin SPK3-2
+Add Pin To Net: Unknown Pin: Pin SPK4-1
+Add Pin To Net: Unknown Pin: Pin SPK4-2

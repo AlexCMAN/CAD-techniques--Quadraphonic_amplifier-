@@ -1,0 +1,9 @@
+Change Component Comment: Designator=SPK1 Old Comment=CLS0361 New Comment=ASE02808MR-LW150-R
+Change Component Comment: Designator=SPK2 Old Comment=CLS0361 New Comment=ASE02808MR-LW150-R
+Change Component Comment: Designator=SPK3 Old Comment=CLS0361 New Comment=ASE02808MR-LW150-R
+Change Component Comment: Designator=SPK4 Old Comment=CLS0361 New Comment=ASE02808MR-LW150-R
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Add Class Object Name=NewClass
+Added Rule: Name=MaxMinWidth_1
+Added Rule: Name=MaxMinWidth_2
+Modified Rule: Name=Schematic Routing Via Style
